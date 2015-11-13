@@ -1,28 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24627.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJsStudy", "AngularJsStudy\AngularJsStudy.csproj", "{9D696B2E-DC61-4C8D-870E-712F6FEB8E14}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "angular", "..\angular\", "{24822D81-84D9-4BC1-9A9E-9F1A816422AF}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "angular(1)", "C:\Users\zuife_000\Documents\GitHub\angular\", "{9248A468-059C-4EAD-9808-895DF1F2184E}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_19174"
-		Debug.AspNetCompiler.PhysicalPath = "..\angular\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_19174\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58925"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\zuife_000\Documents\GitHub\angular\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58925\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_19174"
-		Release.AspNetCompiler.PhysicalPath = "..\angular\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_19174\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58925"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\zuife_000\Documents\GitHub\angular\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58925\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "19174"
+		VWDPort = "58925"
 	EndProjectSection
 EndProject
 Global
@@ -35,10 +35,10 @@ Global
 		{9D696B2E-DC61-4C8D-870E-712F6FEB8E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D696B2E-DC61-4C8D-870E-712F6FEB8E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D696B2E-DC61-4C8D-870E-712F6FEB8E14}.Release|Any CPU.Build.0 = Release|Any CPU
-		{24822D81-84D9-4BC1-9A9E-9F1A816422AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24822D81-84D9-4BC1-9A9E-9F1A816422AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24822D81-84D9-4BC1-9A9E-9F1A816422AF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{24822D81-84D9-4BC1-9A9E-9F1A816422AF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{9248A468-059C-4EAD-9808-895DF1F2184E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9248A468-059C-4EAD-9808-895DF1F2184E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9248A468-059C-4EAD-9808-895DF1F2184E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9248A468-059C-4EAD-9808-895DF1F2184E}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
